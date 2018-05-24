@@ -1,0 +1,22 @@
+{
+  "name": "gehrig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwertypie90/gehrig.git"
+  },
+  "author": "Lindsey McDowell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwertypie90/gehrig/issues"
+  },
+  "homepage": "https://github.com/qwertypie90/gehrig#readme",
+  "dependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
